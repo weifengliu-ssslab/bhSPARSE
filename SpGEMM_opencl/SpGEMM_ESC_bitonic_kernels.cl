@@ -13,7 +13,7 @@
 #pragma OPENCL EXTENSION cl_khr_byte_addressable_store : enable
 
 #define TUPLE_QUEUE 6
-typedef double   vT;
+typedef float   vT;
 
 inline
 void coex(__local  int      *keyA,
