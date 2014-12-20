@@ -13,7 +13,7 @@
 #pragma OPENCL EXTENSION cl_khr_fp64 : enable
 
 #define TUPLE_QUEUE 6
-typedef float   vT;
+typedef double   vT;
 
 inline
 void binarysearch(__local int   *s_key,

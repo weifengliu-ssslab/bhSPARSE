@@ -32,7 +32,7 @@
 using namespace std;
 
 typedef int     index_type;
-typedef float   value_type;
+typedef double   value_type;
 
 #define NUM_PLATFORMS     9
 

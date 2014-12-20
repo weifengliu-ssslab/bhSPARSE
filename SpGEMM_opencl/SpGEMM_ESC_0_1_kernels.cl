@@ -12,7 +12,7 @@
 #pragma OPENCL EXTENSION cl_khr_fp64 : enable
 
 #define TUPLE_QUEUE 6
-typedef float   vT;
+typedef double   vT;
 
 __kernel
 void ESC_0(__global const int   *d_queue,
