@@ -1,2 +1,2 @@
-bhSPARSE
+bhSPARSE: A Sparse BLAS Library
 ========
