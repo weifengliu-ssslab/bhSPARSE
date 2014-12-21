@@ -13,7 +13,6 @@
 #define BHSPARSE_H
 
 #include "bhsparse_cuda.h"
-#include "bhsparse_opencl.h"
 
 class bhsparse
 {
@@ -37,7 +36,6 @@ private:
     bool *_spgemm_platform;
 
     bhsparse_cuda   *_bh_sparse_cuda;
-    bhsparse_opencl *_bh_sparse_opencl;
 
     StopWatchInterface *_stage1_timer;
     StopWatchInterface *_stage2_timer;
@@ -45,15 +43,12 @@ private:
     StopWatchInterface *_stage4_timer;
 
     int spgemm_cuda();
-    int spgemm_opencl();
 
     int statistics();
 
     int compute_nnzC_Ct_cuda();
-    int compute_nnzC_Ct_opencl();
 
     int copy_Ct_to_C_cuda();
-    int copy_Ct_to_C_opencl();
 
     int _m;
     int _k;
