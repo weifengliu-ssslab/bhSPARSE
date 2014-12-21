@@ -77,6 +77,6 @@ Here are some command-line execution examples using OpenCL version:
 <br><hr>
 <h3>Tested environments</h3>
 
-The CUDA version has been tested on nVidia GeForce GTX 680, GTX Titan, GTX Titan Black and GTX 980 with CUDA SDK v6.0/v6.5 and CUSP v0.4.0.
+The CUDA version has been tested on nVidia GeForce GT 650M, GTX 680, GTX Titan, GTX Titan Black and GTX 980 with CUDA SDK v6.0/v6.5, CUSP v0.4.0 and multiple operating systems (Mac OS X v10.9 and Ubuntu v12.04/v14.04).
 
-The OpenCL version has been tested on AMD Radeon HD 7970, R9 290X and A10-7850k APU with OpenCL v1.2/v2.0.
+The OpenCL version has been tested on AMD Radeon HD 7970, R9 290X and A10-7850k APU with OpenCL v1.2/v2.0 and Ubuntu v12.04/v14.04.
