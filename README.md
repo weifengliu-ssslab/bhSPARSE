@@ -75,6 +75,11 @@ Here are some command-line execution examples using OpenCL version:
 `./spgemm -opencl-hcmp -spgemm /home/username/matrices/cage4.mtx`
 
 <br><hr>
+<h3>Precision of value data type</h3>
+
+The SpGEMM supports single precision and double precision floating-point numbers. The default data type is 64-bit double precision. If 32-bit single precision is required, change `typedef value_type` in 'common.h' in the CUDA version. For the OpenCL version, change `typedef value_type` in 'common.h' and `typedef vT` in files 'SpGEMM_EM_kernels.cl', 'SpGEMM_ESC_0_1_kernels.cl', 'SpGEMM_ESC_2heap_kernels.cl', 'SpGEMM_ESC_bitonic_kernels.cl' and 'SpGEMM_copyCt2C_kernels.cl'.
+
+<br><hr>
 <h3>Tested environments</h3>
 
 The CUDA version has been tested on nVidia GeForce GT 650M, GTX 680, GTX Titan, GTX Titan Black and GTX 980 with CUDA SDK v6.0/v6.5, CUSP v0.4.0 and multiple operating systems (Mac OS X v10.9 and Ubuntu v12.04/v14.04).
