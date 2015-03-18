@@ -7,7 +7,7 @@ bhSPARSE: A Sparse BLAS Library
 The bhSPARSE provides basic linear algebra subroutines (BLAS) used for sparse matrix computations on heterogeneous parallel processors. Currently, the bhSPARSE library is under-developing. However, some important building blocks have their source code available.
 
 <br><hr>
-<h3>Building Blocks</h3>
+<h3>Building Blocks for Benchmarking</h3>
 
 <h5>1. Sparse Matrix-Vector Multiplication on CPUs, GPUs and Xeon Phi using the CSR5 format</h5>
 
