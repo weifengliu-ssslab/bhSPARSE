@@ -14,7 +14,7 @@ The bhSPARSE provides basic linear algebra subroutines (BLAS) used for sparse ma
 <b>Code repository</b>: <a href="https://github.com/bhSPARSE/Benchmark_SpMV_using_CSR5">https://github.com/bhSPARSE/Benchmark_SpMV_using_CSR5</a>
 
 <b>Paper</b>: Weifeng Liu and Brian Vinter. 2015. "CSR5: An Efficient Storage Format for Cross-Platform Sparse Matrix-Vector Multiplication". In Proceedings of the 29th ACM international conference on Supercomputing (ICS '15). (To appear).
-[<a href="http://arxiv.org/pdf/1503.05032v1.pdf">preprint-beta</a>]
+[<a href="http://arxiv.org/pdf/1503.05032v2.pdf">preprint</a>]
 
 <h5>2. Sparse Matrix-Matrix Multiplication on GPUs using the CSR format</h5>
 
