@@ -22,7 +22,7 @@ The bhSPARSE provides basic linear algebra subroutines (BLAS) used for sparse ma
 
 <b>Paper (1)</b>: Weifeng Liu and Brian Vinter, "An Efficient GPU General Sparse Matrix-Matrix Multiplication for Irregular Data," Parallel and Distributed Processing Symposium, 2014 IEEE 28th International (IPDPS '14), pp.370-381, 19-23 May 2014. [<a href="http://hiperfit.dk/pdf/SpGEMM_Liu_ipdps14.pdf">pdf</a>][<a href="http://hiperfit.dk/pdf/SpGEMM_Liu_ipdps14_slides.pptx">slides</a>]
 
-<b>Paper (1)</b>: Weifeng Liu and Brian Vinter, "A Framework for General Sparse Matrix-Matrix Multiplication on GPUs and Heterogeneous Processors," Extended version of paper (1) submitted to Journal of Parallel and Distributed Computing (JPDC), 2015. [<a href="http://arxiv.org/pdf/1504.05022v1.pdf">pdf</a>]
+<b>Paper (2)</b>: Weifeng Liu and Brian Vinter, "A Framework for General Sparse Matrix-Matrix Multiplication on GPUs and Heterogeneous Processors," Extended version of paper (1) submitted to Journal of Parallel and Distributed Computing (JPDC), 2015. [<a href="http://arxiv.org/pdf/1504.05022v1.pdf">pdf</a>]
 
 <br><hr>
 <h3>Contact</h3>
