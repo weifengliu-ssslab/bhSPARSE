@@ -7,23 +7,23 @@ bhSPARSE: A Sparse BLAS Library
 The bhSPARSE provides basic linear algebra subroutines (BLAS) used for sparse matrix computations on heterogeneous parallel processors. Currently, the bhSPARSE library is under-developing. However, some important building blocks have their source code available.
 
 <br><hr>
-<h3>Building Blocks for Benchmarking</h3>
+<h3>SpMV and SpGEMM for Benchmarking</h3>
 
-<h5>1. Sparse Matrix-Vector Multiplication on Intel CPUs, nVidia GPUs, AMD GPUs and Intel Xeon Phi using the CSR5 format</h5>
+<h5>1. Sparse Matrix-Vector Multiplication (SpMV) on Intel CPUs, nVidia GPUs, AMD GPUs and Intel Xeon Phi using the CSR5 format</h5>
 
 <b>Code repository</b>: <a href="https://github.com/bhSPARSE/Benchmark_SpMV_using_CSR5">https://github.com/bhSPARSE/Benchmark_SpMV_using_CSR5</a>
 
 <b>Paper</b>: Weifeng Liu and Brian Vinter, "CSR5: An Efficient Storage Format for Cross-Platform Sparse Matrix-Vector Multiplication". In Proceedings of the 29th ACM international conference on Supercomputing (ICS '15), 2015. (To appear).
 [<a href="http://arxiv.org/pdf/1503.05032v2.pdf">pdf</a>]
 
-<h5>2. Sparse Matrix-Vector Multiplication on Intel, AMD and nVidia heterogeneous processors using the CSR format</h5>
+<h5>2. Sparse Matrix-Vector Multiplication (SpMV) on Intel, AMD and nVidia heterogeneous processors using the CSR format</h5>
 
 <b>Code repository</b>: <a href="https://github.com/bhSPARSE/Benchmark_SpMV_using_CSR">https://github.com/bhSPARSE/Benchmark_SpMV_using_CSR</a>
 
 <b>Paper</b>: Weifeng Liu and Brian Vinter, "Speculative Segmented Sum for Sparse Matrix-Vector Multiplication on Heterogeneous Processors". Submitted to Parallel Computing, 2015.
 [<a href="http://arxiv.org/pdf/1504.06474v1">pdf</a>]
 
-<h5>3. Sparse Matrix-Matrix Multiplication on GPUs and Heterogeneous Processors using the CSR format</h5>
+<h5>3. Sparse Matrix-Matrix Multiplication (SpGEMM) on GPUs and Heterogeneous Processors using the CSR format</h5>
 
 <b>Code repository</b>: <a href="https://github.com/bhSPARSE/Benchmark_SpGEMM_using_CSR">https://github.com/bhSPARSE/Benchmark_SpGEMM_using_CSR</a>
 
