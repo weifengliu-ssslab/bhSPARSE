@@ -34,7 +34,7 @@ The bhSPARSE provides basic linear algebra subroutines (BLAS) used for sparse ma
 <br><hr>
 <h3>Contact</h3>
 
-Weifeng Liu (weifeng.liu _at_ nbi.ku.dk) and/or Brian Vinter (vinter _at_ nbi.ku.dk).
+Weifeng Liu (weifeng.liu _at_ nbi.ku.dk) and Brian Vinter (vinter _at_ nbi.ku.dk).
 
 
 
