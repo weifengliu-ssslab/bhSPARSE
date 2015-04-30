@@ -20,7 +20,7 @@ The bhSPARSE provides basic linear algebra subroutines (BLAS) used for sparse ma
 
 <b>Code repository</b>: <a href="https://github.com/bhSPARSE/Benchmark_SpMV_using_CSR">https://github.com/bhSPARSE/Benchmark_SpMV_using_CSR</a>
 
-<b>Paper</b>: Weifeng Liu and Brian Vinter, "Speculative Segmented Sum for Sparse Matrix-Vector Multiplication on Heterogeneous Processors". Parallel Computing, 2015. (accepted)
+<b>Paper</b>: Weifeng Liu and Brian Vinter, "Speculative Segmented Sum for Sparse Matrix-Vector Multiplication on Heterogeneous Processors". Parallel Computing, 2015. (accepted April 2015)
 [<a href="http://arxiv.org/pdf/1504.06474v1">pdf</a>]
 
 <h5>3. Sparse Matrix-Matrix Multiplication (SpGEMM) on GPUs and Heterogeneous Processors using the CSR format</h5>
