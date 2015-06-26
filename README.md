@@ -13,8 +13,8 @@ The bhSPARSE provides basic linear algebra subroutines (BLAS) used for sparse ma
 
 <b>Code repository</b>: <a href="https://github.com/bhSPARSE/Benchmark_SpMV_using_CSR5">https://github.com/bhSPARSE/Benchmark_SpMV_using_CSR5</a>
 
-<b>Paper</b>: Weifeng Liu and Brian Vinter, "CSR5: An Efficient Storage Format for Cross-Platform Sparse Matrix-Vector Multiplication". In Proceedings of the 29th ACM international conference on Supercomputing (ICS '15), 2015. (To appear).
-[<a href="http://arxiv.org/pdf/1503.05032v2.pdf">pdf</a>]
+<b>Paper</b>: Weifeng Liu and Brian Vinter, "CSR5: An Efficient Storage Format for Cross-Platform Sparse Matrix-Vector Multiplication". In Proceedings of the 29th ACM international conference on Supercomputing (ICS '15), pp.339-350, 2015. 
+[<a href="http://www.nbi.dk/~weifeng/papers/CSR5_Liu_ics15.pdf">pdf</a>][<a href="http://www.nbi.dk/~weifeng/slides/CSR5_Liu_ics15_slides.pptx">slides</a>]
 
 <h5>2. Sparse Matrix-Vector Multiplication (SpMV) on Intel, AMD and nVidia heterogeneous processors using the CSR format</h5>
 
@@ -27,7 +27,7 @@ The bhSPARSE provides basic linear algebra subroutines (BLAS) used for sparse ma
 
 <b>Code repository</b>: <a href="https://github.com/bhSPARSE/Benchmark_SpGEMM_using_CSR">https://github.com/bhSPARSE/Benchmark_SpGEMM_using_CSR</a>
 
-<b>Paper (1)</b>: Weifeng Liu and Brian Vinter, "An Efficient GPU General Sparse Matrix-Matrix Multiplication for Irregular Data," Parallel and Distributed Processing Symposium, 2014 IEEE 28th International (IPDPS '14), pp.370-381, 19-23 May 2014. [<a href="http://hiperfit.dk/pdf/SpGEMM_Liu_ipdps14.pdf">pdf</a>][<a href="http://hiperfit.dk/pdf/SpGEMM_Liu_ipdps14_slides.pptx">slides</a>]
+<b>Paper (1)</b>: Weifeng Liu and Brian Vinter, "An Efficient GPU General Sparse Matrix-Matrix Multiplication for Irregular Data," Parallel and Distributed Processing Symposium, 2014 IEEE 28th International (IPDPS '14), pp.370-381, 19-23 May 2014. [<a href="http://www.nbi.dk/~weifeng/papers/SpGEMM_Liu_ipdps14.pdf">pdf</a>][<a href="http://www.nbi.dk/~weifeng/slides/SpGEMM_Liu_ipdps14_slides.pptx">slides</a>]
 
 <b>Paper (2)</b>: Weifeng Liu and Brian Vinter, "A Framework for General Sparse Matrix-Matrix Multiplication on GPUs and Heterogeneous Processors," Extended version of paper (1) submitted to Journal of Parallel and Distributed Computing (JPDC), 2015. [<a href="http://arxiv.org/pdf/1504.05022v1.pdf">pdf</a>]
 
